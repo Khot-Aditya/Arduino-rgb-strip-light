@@ -5,7 +5,7 @@
 CRGB leds[NUM_LEDS];
 #define PIN 8
 
-byte selectedEffect = 0;
+byte selectedEffect = 0; 
 
 const int buttonPin = 2; // the number of the pushbutton pin
 const byte potPin = 0;   // Defines the pin the potentiometer is on
